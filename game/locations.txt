@@ -1,0 +1,46 @@
+## Ort ##	####	Rollen    ####
+
+## WIEN
+Karlsplatzteich	BierverkäuferIn, SkateboarderIn, Teil von Liebespaar, StudentenIn, StrassenkuenstlerIn, FahrradfahrerIn
+Hauptbahnhof	KontrolleurIn, TicketverkäuferIn, Putzkraft, Security, S&auml;uferIn, SandlerIn, Junky, Familienvater
+Donaukanal	KifferIn, Teenager, Hipster 
+Donauinsel	KifferIn, SkaterIn, RadfahrerIn, FKK-Mensch, Grillpartymensch, AlteR WienerIn
+Naschmarkt	VerkäuferIn, TouristIn, FleischerIn, BlumenveräuferIn
+Stephansplatz	Snob, TouristIn, StrassenkuenstlerIn, Konzertticket VerkäuferIn (als Mozart verkleidet), Dieb
+Prater	Kleinkind, Zuckerwatte Verk&auml;uferIn, TicketverkäuferIn, Clown, LangosverkaeuferIn	
+Copa-Beach	Hipster, Superfooddelhi-Standler, Skater
+TU-Wien	Nerd, KaffeetrinkerIn, FETler, Erasmus-Student
+Flex	RaverIn, Druffie, DJane, Drogenverk&auml;uferIn, 16j&auml;hriger
+Ballhausplatz	Strache, Strolz, Kurz, Fayad Mulla, Kogler
+Museumsquartier	Hipster, MuseumsgeherIn, KaffetrinkerIn, KuenstlerIn
+Westbahnhof	Schwarzkappler, SchwarzfahrerIn, BettlerIn, Verk&auml;uferIn
+Guertel-Skatepark	RadfahrerIn, PolizistIn, Skater, Oma
+
+
+
+## ORTE
+#Growshop	KifferIn, VerkäuferIn
+#Club	TuersteherIn, DJ/DJane, BarkeeperIn, DrogenverkaeuferIn, BetrunkeneR, GarderobistIn
+#Space Station	Astronaut, PhysikerIn, Biologe/in, TechnikerIn, PilotIn, DoktorIn, SpacetouristIn
+#Militaer Basis	Soldat, Leutnant, Oberster Offizier, Arzt/Aerztin, WissenschaftlerIn	
+#Hotel	RezeptionistIn, Putzkraft, Koch/Koechin, HotelbesucherIn, Liftboy/-girl
+#Piratenschiff	Kapitaen, Papagei, Gefangener, Pirat
+#Stadion	FussballspielerIn, Person die Rasen maeht, Security, SchiedsrichterIn, PhysiotherapeutIn, Arzt/Aerztin, Fan, Hooligan
+#Uni	ProfessorIn, Student, Sicherheitspersonal, Putzkraft, Dekan, StudienServiceCenter Person, Informatiker, Studienvertretungs Heini, Tutor
+#Supermarkt	FeinkostverkaeuferIn, Kassamensch, LieferantIn, EinkaeuferIn
+#Krankenhaus	Arzt/Aerztin, (Krebs-)PatientIn, Krankenschwester/-bruder, BesucherIn, Laborant, Roentgenspezialist, Pathologe (Leichenarzt/aerztin)
+#Filmstudio	Kameramann/-frau, Stuntman/-woman, ProduzentIn, GeldgeberIn, Catering, Filmstar
+#U-Boot	Elektrotechniker, Radioman, Radarspezialist, Kapitaen
+#Theater	SchauspielerIn, GadarobistIn, KartenabreisserIn, Statist (Hintergrundschauspieler), LichttechnikerIn, BuehnenbildmacherIn, ChoreographIn, DirektorIn, KostuembildnerIn, Make-up ArtistIn
+#Konzerthaus	Pianist, Dirigent, LichttechnikerIn, KartenabreisserIn, Saenger
+#Flughafen	Pilot, StuwardEss, ReisendeR, Security, Kofferschmeisser, Businessman/-woman, Backpacker
+#Museum	KartenabreisserIn, Security, KuratorIn, KritkerIn, Kuenstler, Maler, Besucher
+#Fitnessstudio	Fitness-Coach, Muskelprotz/Tussi, Student, Midlife-crisler, Fitness-Guru, Influencer
+#Labor	ChemikerIn, Mikrobiologe/-in, LabortechnikerIn, Reinigungskraft, Zivildiener
+#Restaurant	Koch/Koechin, KellnerIn, Gast, Kochlehrling
+#Fabrik	ArbeiterIn, Aufsichtsperson, ChefIn, BrandschutzbeauftrageR
+#U-Bahn	UbahnfuehrerIn, Student, BetrunkeneR, Liebespaar, Bierkavalier (Verrueckter), TicketkontrolleurIn, SchwarzfahrerIn, UbahnMusikerIn, BettlerIn
+#Baustelle	BauarbeiterIn, ArchitektIn, Baustellenaufsicht, VermessungstechnikerIn, BaggerfahrerIn, MaurerIn, Tischler
+#Autobahn	LKW-FahrerIn, Polizei, AbschlepperIn, Geisterfahrer, Reisender 
+#Zoo	TierwaerterIn, BesucherIn, Kind, DirektorIn, Tom Turbo, Thomas Breziner
+#IKEA	EinkaeuferIn, Essensausgabe, Hipster, StudentIn

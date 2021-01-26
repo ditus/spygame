@@ -1,0 +1,32 @@
+body {
+	background-color: white;
+	background-image: linear-gradient(141deg, #9fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);	
+	    height: 100%;
+	    margin: 0;
+	    background-repeat: no-repeat;
+	    background-attachment: fixed;
+}
+
+.outerwrapper {
+	text-align: center;
+}
+
+.wrapper {
+	background-color:lightblue;
+	margin:auto;	
+	padding:10px;
+	display: inline-block;
+	text-align: center;
+	border-radius:20px;	
+	transform: perspective(1px) translateY(50%);
+}
+ul {
+list-style-type: square;
+}
+ul  {
+margin-top: 5px;
+padding-left: 25px;
+}
+form {
+margin: 5px;
+}

@@ -1,0 +1,41 @@
+h2 {
+	margin:10px;
+}
+
+#main {
+	float:left;
+}
+
+#locations {
+	float: left;
+	overflow: hidden;
+	margin-left: 40px;
+}
+
+.outerwrapper {
+	text-align: center;
+}
+
+.wrapper {
+	text-align: left;
+	background-color: white;
+	margin: auto;
+	overflow: hidden; /* will contain if #first is longer than #second */
+	padding:30px;
+	display: inline-block;
+	text-align: center;
+	border-radius:20px;	
+	transform: perspective(1px) translateY(25%);
+}
+
+body {
+	background-color: darkblue;
+	    height: 100%;
+	    margin: 0;
+	    background-repeat: no-repeat;
+	    background-attachment: fixed;
+}
+
+.locations {
+	text-align: left;
+}
